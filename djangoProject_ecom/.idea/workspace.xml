@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b5112827-95c4-4d2d-8195-9a5841ebf7de" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DjangoConsoleOptions" custom-start-script="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)">
+    <option name="myCustomStartScript" value="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="JupyterTrust" id="81f20a11-c1a8-4fa8-9a30-617fbc1457af" />
+  <component name="ProjectId" id="1pyCPqEcBp2ANtRNFW51FDlb8GA" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/ecom" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\djangoProject_ecom\templates\ecom" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\djangoProject_ecom\ecom" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="djangoProject_ecom" type="Python.DjangoServer" factoryName="Django server">
+      <module name="djangoProject_ecom" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="launchJavascriptDebuger" value="false" />
+      <option name="port" value="8000" />
+      <option name="host" value="" />
+      <option name="additionalOptions" value="" />
+      <option name="browserUrl" value="" />
+      <option name="runTestServer" value="false" />
+      <option name="runNoReload" value="false" />
+      <option name="useCustomRunCommand" value="false" />
+      <option name="customRunCommand" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b5112827-95c4-4d2d-8195-9a5841ebf7de" name="Default Changelist" comment="" />
+      <created>1616145921807</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1616145921807</updated>
+      <workItem from="1616145961902" duration="83000" />
+      <workItem from="1616146764817" duration="2799000" />
+      <workItem from="1616150065410" duration="28000" />
+      <workItem from="1616164954127" duration="599000" />
+      <workItem from="1616169234956" duration="2000" />
+      <workItem from="1616255748211" duration="4742000" />
+      <workItem from="1616338383129" duration="3000" />
+      <workItem from="1616346950580" duration="3054000" />
+      <workItem from="1616350693098" duration="594000" />
+      <workItem from="1616422669108" duration="598000" />
+      <workItem from="1616427373744" duration="739000" />
+      <workItem from="1616429426454" duration="2869000" />
+      <workItem from="1616505875921" duration="33000" />
+      <workItem from="1616513609848" duration="55000" />
+      <workItem from="1616513671574" duration="4207000" />
+      <workItem from="1616557124984" duration="60000" />
+      <workItem from="1616604741365" duration="1291000" />
+      <workItem from="1616838785972" duration="3000" />
+      <workItem from="1616865646160" duration="1875000" />
+      <workItem from="1616897784293" duration="3164000" />
+      <workItem from="1616984591238" duration="2494000" />
+      <workItem from="1617157347481" duration="5408000" />
+      <workItem from="1617165025938" duration="3847000" />
+      <workItem from="1617421346367" duration="1410000" />
+      <workItem from="1617461054382" duration="598000" />
+      <workItem from="1617510640936" duration="1103000" />
+      <workItem from="1617528165653" duration="885000" />
+      <workItem from="1617530679468" duration="1595000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="277" y="57" key="SettingsEditor" timestamp="1616148456847">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="277" y="57" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1616148456847" />
+  </component>
+</project>
